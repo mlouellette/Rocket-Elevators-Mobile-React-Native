@@ -32,7 +32,7 @@ Once the status update is complete, the screen queries the elevator status again
 
 ## REST-API
 
-- `https://github.com/mlouellette/Rocket_Elevators_API_REST.git`
+- https://github.com/mlouellette/Rocket_Elevators_API_REST.git
 
 ## Presentation video
 
