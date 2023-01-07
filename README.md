@@ -5,9 +5,9 @@ Elevators that are inactive and have the possibility to put the chosen Elevator 
 
 # Recommended downloads
 
-Android Studio : `https://developer.android.com/studio`
+Android Studio : https://developer.android.com/studio
 
-Ngrok (for the api paths) : `https://ngrok.com/`
+Ngrok (for the api paths) : https://ngrok.com/
 
 ## Usage
 
