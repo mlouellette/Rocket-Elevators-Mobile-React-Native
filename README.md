@@ -34,6 +34,9 @@ Once the status update is complete, the screen queries the elevator status again
 
 - https://github.com/mlouellette/Rocket_Elevators_API_REST.git
 
+## Seeding database
+- https://github.com/mlouellette/Rocket-Elevators-Foundation
+
 ## Presentation video
 
 - https://vimeo.com/787085384
